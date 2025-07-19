@@ -92,10 +92,19 @@
       <p>Heb je interesse of vragen? Neem gerust contact met me op via onderstaand formulier.</p>
       <form action="https://formspree.io/f/xpwlazzv" method ="POST">
          <input type="hidden" name="_redirect" value="https://ecowijzer-onderwijs.nl/bedankt.html">
-  <input type="text" name="naam" required>
-  <input type="email" name="email" required>
-  <textarea name="bericht" required></textarea>
+ <form action="https://formspree.io/f/mjvljzxy" method="POST">
+  
+  <label for="naam">Naam:</label><br>
+  <input type="text" id="naam" name="naam" placeholder="Vul je naam in" required><br><br>
+  
+  <label for="email">Email:</label><br>
+  <input type="email" id="email" name="email" placeholder="Vul je email in" required><br><br>
+  
+  <label for="bericht">Bericht:</label><br>
+  <textarea id="bericht" name="bericht" placeholder="Typ hier je bericht" required></textarea><br><br>
+  
   <button type="submit">Verzenden</button>
+  
 </form>
     </section>
   </main>
