@@ -23,4 +23,4 @@ Ga naar het [contactformulier op de website](https://jouwgebruikersnaam.github.i
 ---
 
 © 2025 Ecowijzer – Onderwijs  
-Website gebouwd met liefde en GitHub Pages ❤️
+
