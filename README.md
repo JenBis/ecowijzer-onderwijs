@@ -1,6 +1,6 @@
 # 🌱 Ecowijzer – Onderwijs
 
-Welkom op de officiële website van **Ecowijzer – Onderwijs**, een eenmanszaak van Jenny, zelfstandig docent Economie.
+Welkom op de officiële website van **Ecowijzer – Onderwijs**, zelfstandig docent Economie.
 
 👩‍🏫 Als ervaren vakdocent bied ik maatwerkonderwijs aan havo, vwo, mbo en volwasseneneducatie.  
 Met duidelijke uitleg, persoonlijke begeleiding en passie voor het vak help ik leerlingen en studenten vooruit.
