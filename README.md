@@ -9,7 +9,7 @@ Met duidelijke uitleg, persoonlijke begeleiding en passie voor het vak help ik l
 
 ## 💼 Diensten
 
-- Lesgeven in Economie voor havo & vwo  
+- Lesgeven in Economie in het voortgezet onderwijs 
 - Begeleiding op mbo-niveau  
 - Onderwijs aan volwassenen (klassikaal en individueel)  
 - Korte en lange vervangingsopdrachten  
