@@ -2,7 +2,7 @@
 
 Welkom op de officiële website van **Ecowijzer – Onderwijs**, zelfstandig docent Economie.
 
-👩‍🏫 Als ervaren vakdocent bied ik maatwerkonderwijs aan havo, vwo, mbo en volwasseneneducatie.  
+👩‍🏫 Als ervaren vakdocent bied ik maatwerkonderwijs in het voortgezet onderwijs, mbo en volwasseneneducatie.  
 Met duidelijke uitleg, persoonlijke begeleiding en passie voor het vak help ik leerlingen en studenten vooruit.
 
 ---
